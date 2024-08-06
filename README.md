@@ -6,4 +6,4 @@ Projeto de sistema web de biblioteca particular.
 - Python 
   - Django
 -  TypeScript (Em breve)
-  - React
+    - React
