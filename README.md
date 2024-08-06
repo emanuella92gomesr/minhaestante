@@ -4,6 +4,6 @@ Projeto de sistema web de biblioteca particular.
 
 # Tecnologias utilizadas
 - Python 
-- - Django
--  TypeScript
-- - React
+  - Django
+-  TypeScript (Em breve)
+  - React
